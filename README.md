@@ -10,7 +10,7 @@ O projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais da 
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Menu principal navegável utilizando as setas do teclado
 - Cadastro de novas palavras
@@ -132,7 +132,7 @@ Durante o desenvolvimento foram utilizados:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Erica Carvalho
 
