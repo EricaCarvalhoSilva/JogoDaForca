@@ -1,0 +1,278 @@
+cachorro|Animais|Melhor amigo do homem|facil
+gato|Animais|Mia e gosta de leite|facil
+vaca|Animais|Da leite|facil
+cavalo|Animais|Usado para montar|facil
+peixe|Animais|Vive na agua|facil
+banana|Frutas|Amarela|facil
+maca|Frutas|Pode ser vermelha ou verde|facil
+uva|Frutas|Pequena e em cachos|facil
+pera|Frutas|Doce e macia|facil
+manga|Frutas|Fruta tropical|facil
+casa|Objetos|Lugar para morar|facil
+porta|Objetos|Usada para entrar|facil
+mesa|Objetos|Usada para refeicoes|facil
+cadeira|Objetos|Usada para sentar|facil
+cama|Objetos|Usada para dormir|facil
+bola|Esportes|Usada no futebol|facil
+rede|Esportes|No volei|facil
+gol|Esportes|Objetivo do futebol|facil
+time|Esportes|Grupo de jogadores|facil
+juiz|Esportes|Apita o jogo|facil
+sol|Natureza|Estrela do dia|facil
+lua|Natureza|Brilha a noite|facil
+mar|Natureza|Agua salgada|facil
+rio|Natureza|Agua corrente|facil
+ceu|Natureza|Onde ficam as nuvens|facil
+livro|Educacao|Usado para ler|facil
+lapis|Educacao|Usado para escrever|facil
+caneta|Educacao|Tinta para escrever|facil
+escola|Educacao|Lugar de estudo|facil
+prova|Educacao|Avaliacao|facil
+carro|Transporte|Tem quatro rodas|facil
+moto|Transporte|Duas rodas|facil
+onibus|Transporte|Leva varias pessoas|facil
+trem|Transporte|Anda nos trilhos|facil
+barco|Transporte|Navega na agua|facil
+leite|Alimentos|Vem da vaca|facil
+pao|Alimentos|Cafe da manha|facil
+arroz|Alimentos|Base do almoco|facil
+feijao|Alimentos|Muito comum no brasil|facil
+ovo|Alimentos|Pode ser frito|facil
+azul|Cores|Cor do ceu|facil
+verde|Cores|Cor das plantas|facil
+preto|Cores|Ausencia de luz|facil
+branco|Cores|Cor da neve|facil
+amarelo|Cores|Cor do sol|facil
+mao|Corpo|Parte do corpo|facil
+pe|Corpo|Usado para andar|facil
+olho|Corpo|Usado para ver|facil
+boca|Corpo|Usada para falar|facil
+nariz|Corpo|Usado para respirar|facil
+rua|Cidade|Caminho urbano|facil
+praca|Cidade|Area publica|facil
+loja|Cidade|Local de compras|facil
+banco|Cidade|Guarda dinheiro|facil
+mercado|Cidade|Compra comida|facil
+dia|Tempo|Claro|facil
+noite|Tempo|Escuro|facil
+hora|Tempo|Unidade de tempo|facil
+ano|Tempo|12 meses|facil
+mes|Tempo|Parte do ano|facil
+chuva|Clima|Agua do ceu|facil
+vento|Clima|Ar em movimento|facil
+frio|Clima|Baixa temperatura|facil
+calor|Clima|Alta temperatura|facil
+nuvem|Clima|No ceu|facil
+amigo|Pessoas|Pessoa proxima|facil
+pai|Pessoas|Figura paterna|facil
+mae|Pessoas|Figura materna|facil
+filho|Pessoas|Descendente|facil
+irmao|Pessoas|Parente|facil
+sapato|Roupas|Usado no pe|facil
+camisa|Roupas|Parte de cima|facil
+calca|Roupas|Parte de baixo|facil
+meia|Roupas|No pe|facil
+bone|Roupas|Na cabeca|facil
+fogo|Elementos|Queima|facil
+agua|Elementos|Essencial|facil
+terra|Elementos|Solo|facil
+ar|Elementos|Respiramos|facil
+luz|Elementos|Ilumina|facil
+flor|Natureza|Planta bonita|facil
+arvore|Natureza|Grande planta|facil
+grama|Natureza|Verde no chao|facil
+pedra|Natureza|Dura|facil
+areia|Natureza|Praia|facil
+som|Sensacao|Ouvimos|facil
+cheiro|Sensacao|Sentimos|facil
+gosto|Sensacao|Saboreamos|facil
+toque|Sensacao|Sentimos na pele|facil
+cor|Sensacao|Visual|facil
+janela|Casa|Entrada de luz|medio
+relogio|Objetos|Marca o tempo|medio
+chocolate|Alimentos|Doce de cacau|medio
+aviao|Transporte|Voa alto|medio
+computador|Tecnologia|Usado para programar|medio
+bicicleta|Transporte|Sem motor|medio
+professor|Educacao|Ensina alunos|medio
+aluno|Educacao|Aprende|medio
+internet|Tecnologia|Rede mundial|medio
+celular|Tecnologia|Telefone portatil|medio
+energia|Ciencia|Move maquinas|medio
+oxigenio|Ciencia|Usado para respirar|medio
+planeta|Astronomia|Orbita estrela|medio
+estrela|Astronomia|Corpo luminoso|medio
+cometa|Astronomia|Tem cauda|medio
+peito|Corpo|Parte frontal|medio
+costa|Corpo|Parte traseira|medio
+dedo|Corpo|Parte da mao|medio
+braco|Corpo|Membro superior|medio
+perna|Corpo|Membro inferior|medio
+lixeira|Cidade|Lugar de lixo|medio
+chaveiro|Objetos|Guarda chaves|medio
+copo|Objetos|Usado para beber|medio
+prato|Objetos|Usado para comer|medio
+garfo|Objetos|Talher|medio
+fogao|Casa|Usado para cozinhar|medio
+geladeira|Casa|Conserva comida|medio
+armario|Casa|Guarda roupas|medio
+espelho|Casa|Reflete imagem|medio
+travesseiro|Casa|Apoio para dormir|medio
+caderno|Educacao|Para escrever|medio
+mochila|Educacao|Leva materiais|medio
+quadro|Educacao|Usado na aula|medio
+borracha|Educacao|Apaga escrita|medio
+agenda|Objetos|Organiza tarefas|medio
+garrafa|Objetos|Guarda liquido|medio
+panela|Cozinha|Usada no fogo|medio
+colher|Cozinha|Talher|medio
+cozinha|Casa|Lugar de comida|medio
+banheiro|Casa|Higiene pessoal|medio
+escova|Higiene|Escova dentes|medio
+sabao|Higiene|Limpeza|medio
+toalha|Higiene|Secar corpo|medio
+perfume|Higiene|Cheiro bom|medio
+camiseta|Roupas|Roupa leve|medio
+jaqueta|Roupas|Protege do frio|medio
+vestido|Roupas|Roupa feminina|medio
+sandalia|Roupas|Calcado aberto|medio
+tenis|Roupas|Para esportes|medio
+estrada|Transporte|Liga cidades|medio
+rodovia|Transporte|Via rapida|medio
+garagem|Casa|Guarda carro|medio
+motorista|Transporte|Dirige veiculo|medio
+passageiro|Transporte|Viaja junto|medio
+helicoptero|Transporte|Voa com helice|medio
+navio|Transporte|Grande barco|medio
+metro|Transporte|Trem urbano|medio
+estacao|Transporte|Parada de trem|medio
+praia|Natureza|Areia e mar|medio
+floresta|Natureza|Muitas arvores|medio
+deserto|Natureza|Muito seco|medio
+ilha|Natureza|Terra com agua|medio
+vulcao|Natureza|Cospe lava|medio
+tempestade|Clima|Chuva forte|medio
+furacao|Clima|Vento muito forte|medio
+neblina|Clima|Ar com nevoa|medio
+sereno|Clima|Umido a noite|medio
+orvalho|Clima|Gotas na planta|medio
+trabalho|Rotina|Atividade diaria|medio
+empresa|Trabalho|Lugar de emprego|medio
+salario|Trabalho|Pagamento|medio
+ferias|Tempo|Descanso|medio
+descanso|Rotina|Relaxar|medio
+amizade|Pessoas|Relacao boa|medio
+vizinho|Pessoas|Mora perto|medio
+colega|Pessoas|Conhecido|medio
+familia|Pessoas|Grupo familiar|medio
+crianca|Pessoas|Pessoa jovem|medio
+adulto|Pessoas|Pessoa crescida|medio
+idoso|Pessoas|Pessoa velha|medio
+jogador|Esportes|Pratica esporte|medio
+torcida|Esportes|Apoia time|medio
+campeao|Esportes|Vencedor|medio
+partida|Esportes|Jogo|medio
+treino|Esportes|Preparacao|medio
+apito|Esportes|Som do juiz|medio
+pontuacao|Esportes|Contagem de pontos|medio
+placar|Esportes|Mostra resultado|medio
+noticia|Midia|Informacao|medio
+revista|Midia|Publicacao|medio
+radio|Midia|Transmite som|medio
+televisao|Midia|Imagem e som|medio
+filme|Midia|Historia em video|medio
+serie|Midia|Episodios|medio
+neurofuncional|Saude|Reabilitacao neural|dificil
+sistematizacao|Saude|Organiza cuidado|dificil
+gravidade|Ciencia|Puxa objetos|dificil
+satelite|Espaco|Orbita planeta|dificil
+galaxia|Espaco|Grupo de estrelas|dificil
+universo|Espaco|Tudo que existe|dificil
+atmosfera|Ciencia|Camada de ar|dificil
+biodiverso|Natureza|Variedade vida|dificil
+ecosistema|Natureza|Seres e ambiente|dificil
+fotossintese|Ciencia|Planta faz alimento|dificil
+termometro|Ciencia|Mede calor|dificil
+barometro|Ciencia|Mede pressao|dificil
+velocidade|Fisica|Rapidez|dificil
+aceleracao|Fisica|Muda velocidade|dificil
+inercia|Fisica|Resiste movimento|dificil
+densidade|Fisica|Massa por volume|dificil
+pressao|Fisica|Forca area|dificil
+energia|Fisica|Capacidade agir|dificil
+eletricidade|Fisica|Fluxo de carga|dificil
+magnetismo|Fisica|Forca magnetica|dificil
+programacao|Tecnologia|Criar codigo|dificil
+algoritmo|Tecnologia|Passos logicos|dificil
+criptografia|Tecnologia|Protege dados|dificil
+processador|Tecnologia|Cerebro pc|dificil
+memoria|Tecnologia|Guarda dados|dificil
+armazenamento|Tecnologia|Salvar info|dificil
+interface|Tecnologia|Interacao usuario|dificil
+sistema|Tecnologia|Conjunto partes|dificil
+automacao|Tecnologia|Processo automatico|dificil
+robotica|Tecnologia|Robo estudo|dificil
+engenharia|Ciencia|Criar solucoes|dificil
+arquitetura|Construcao|Planeja casas|dificil
+infraestrutura|Cidade|Base urbana|dificil
+urbanizacao|Cidade|Crescimento urbano|dificil
+populacao|Geografia|Numero pessoas|dificil
+demografia|Geografia|Estudo populacao|dificil
+territorio|Geografia|Area definida|dificil
+fronteira|Geografia|Limite pais|dificil
+continente|Geografia|Grande terra|dificil
+hemisferio|Geografia|Metade planeta|dificil
+cartografia|Geografia|Faz mapas|dificil
+coordenada|Geografia|Localizacao|dificil
+longitude|Geografia|Linha vertical|dificil
+latitude|Geografia|Linha horizontal|dificil
+climatologia|Ciencia|Estuda clima|dificil
+meteorologia|Ciencia|Preve tempo|dificil
+hidrologia|Ciencia|Estuda agua|dificil
+geologia|Ciencia|Estuda terra|dificil
+mineralogia|Ciencia|Estuda minerais|dificil
+paleontologia|Ciencia|Fosseis estudo|dificil
+biologia|Ciencia|Estuda vida|dificil
+genetica|Ciencia|Hereditariedade|dificil
+citologia|Ciencia|Estuda celula|dificil
+anatomia|Ciencia|Estrutura corpo|dificil
+fisiologia|Ciencia|Funcao corpo|dificil
+patologia|Saude|Estuda doenca|dificil
+imunologia|Saude|Defesa corpo|dificil
+farmacologia|Saude|Estuda remedio|dificil
+toxicologia|Saude|Substancias toxicas|dificil
+epidemiologia|Saude|Estuda doencas|dificil
+nutricao|Saude|Alimentacao|dificil
+psicologia|Saude|Mente humana|dificil
+neurologia|Saude|Sistema nervoso|dificil
+cardiologia|Saude|Coracao estudo|dificil
+dermatologia|Saude|Pele estudo|dificil
+oftalmologia|Saude|Olhos estudo|dificil
+odontologia|Saude|Dentes estudo|dificil
+pediatria|Saude|Criancas|dificil
+geriatria|Saude|Idosos|dificil
+oncologia|Saude|Cancer estudo|dificil
+radiologia|Saude|Imagem corpo|dificil
+cirurgia|Saude|Operacao|dificil
+anestesia|Saude|Tira dor|dificil
+reabilitacao|Saude|Recuperar funcao|dificil
+ergonomia|Saude|Adapta trabalho|dificil
+logistica|Empresa|Organiza fluxo|dificil
+marketing|Empresa|Divulga produto|dificil
+financas|Empresa|Controla dinheiro|dificil
+economia|Empresa|Estuda recursos|dificil
+administracao|Empresa|Gerir negocio|dificil
+empreendedor|Empresa|Cria negocio|dificil
+planejamento|Empresa|Define metas|dificil
+estrategia|Empresa|Plano acao|dificil
+produtividade|Empresa|Rende mais|dificil
+inovacao|Empresa|Ideia nova|dificil
+competitividade|Empresa|Disputa mercado|dificil
+globalizacao|Mundo|Conexao global|dificil
+sustentavel|Natureza|Nao agride meio|dificil
+reciclagem|Natureza|Reaproveita lixo|dificil
+poluicao|Natureza|Sujeira ambiente|dificil
+desmatamento|Natureza|Corte arvores|dificil
+aquecimento|Clima|Aumento calor|dificil
+extincao|Natureza|Fim especie|dificil
+conservacao|Natureza|Proteger meio|dificil
